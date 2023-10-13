@@ -79,9 +79,7 @@ soft skills
 Descripción de como usarlo: https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
 -->
 
-> Icons by: [simpleicons](https://simpleicons.org/)
-<br>
-> Labels by: [shields.io](https://shields.io/badges)
+> Icons by: [simpleicons](https://simpleicons.org/) and labels by: [shields.io](https://shields.io/badges)
 
 <br><br>
 
