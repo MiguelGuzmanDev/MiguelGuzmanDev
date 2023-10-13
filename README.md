@@ -80,6 +80,7 @@ Descripción de como usarlo: https://stackoverflow.com/questions/38985050/how-do
 -->
 
 > Icons by: [simpleicons](https://simpleicons.org/)
+<br>
 > Labels by: [shields.io](https://shields.io/badges)
 
 <br><br>
